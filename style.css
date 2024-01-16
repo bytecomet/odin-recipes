@@ -1,0 +1,19 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+a,
+a:visited {
+    color: rgb(67, 67, 252);
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+h1 {
+    color: rgb(86, 114, 146);
+    font-size: 40px;
+}
