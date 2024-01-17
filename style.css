@@ -16,4 +16,5 @@ img {
 h1 {
     color: rgb(86, 114, 146);
     font-size: 40px;
+    font-weight: lighter;
 }
